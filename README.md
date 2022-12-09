@@ -1,7 +1,7 @@
 # Azure-Ticketing-System-Lab-Jira-
 Microsoft Azure VM running Jira ticketing system lab to further skill sets
-<h1>Creating Azure VM Ticketing System Lab(Jira)</h1>
-<h2>Prerequisites </h2> Windows Remote Access Connection, or another application to use remote access protocol. <br/>
+
+<h2>Prerequisites </h2> -Windows Remote Access Connection, or another application to use remote access protocol & a Microsfot Azure account. <br/>
 <h2>Steps</h2>
 <p align="center">
   <b>1.)Creating Microsoft Azure Account</b><br/>
